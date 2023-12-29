@@ -1,7 +1,5 @@
 # Project Overviews
-
 I have created sales Analysis Project Using Tableau 
-
 # Features
 *  Conducted end-to-end sales analysis using Tableau, managing $6,183,625 in sales across 1,094 shipments and 17,007 boxes.
 *  Explored international sales data to pinpoint top-performing countries and strategically enhanced market presence.
